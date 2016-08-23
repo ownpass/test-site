@@ -1,0 +1,14 @@
+body {
+    padding-top: 50px;
+}
+
+form {
+    background-color: #F9F9F9;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.introduction {
+    padding: 40px 15px;
+    text-align: center;
+}
